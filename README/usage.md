@@ -1,0 +1,12 @@
+```
+from ismatch import *
+
+ismatch("string","str*")
+>>> True
+
+ismatch("string",["str*","another pattern"]) # 2 patterns
+>>> True
+
+ismatch("string","string") # static pattern
+>>> True
+```
