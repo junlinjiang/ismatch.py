@@ -6,7 +6,7 @@ github.com_: :code:`pip install git+git://github.com/russianidiot/ismatch.py.git
 
 pypi.python.org_: :code:`pip install ismatch`
 
-download_: :code:`python setup.py install` or :code:`setup.py/.setup.py develop.command`
+download_: :code:`python setup.py install` or :code:`setup/.setup.py develop.command`
 
 .. _github.com: http://github.com/russianidiot/ismatch.py
 .. _pypi.python.org: https://pypi.python.org/pypi/ismatch
