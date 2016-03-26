@@ -31,9 +31,11 @@ download_: :code:`[ -e requirements.txt ] && pip install -r requirements.txt; py
 Usage
 ~~~~~
 
+**ismatch(string,pattern)** function
+
 .. code-block:: python
 
-	from ismatch import *
+	>>> from ismatch import *
 
 	>>> ismatch("string","str*")
 	True

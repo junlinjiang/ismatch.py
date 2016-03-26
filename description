@@ -1,1 +1,1 @@
-ismatch(string,pattern) - True if string match pattern(s). pattern types: string, wildcard, regex
+ismatch(string,pattern) function - True if string match pattern(s). pattern types: string, wildcard, regex

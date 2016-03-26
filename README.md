@@ -1,5 +1,5 @@
 <p align="center">
-	<b>ismatch(string,pattern) - True if string match pattern(s). pattern types: string, wildcard, regex</b>
+	<b>ismatch(string,pattern) function - True if string match pattern(s). pattern types: string, wildcard, regex</b>
 </p>
 
 [![Build Status](https://travis-ci.org/russianidiot/ismatch.py.svg?branch=master)](https://travis-ci.org/russianidiot/ismatch.py)[![PyPI](https://img.shields.io/pypi/v/ismatch.svg)](https://pypi.python.org/pypi/ismatch)

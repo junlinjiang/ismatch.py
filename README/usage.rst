@@ -1,6 +1,8 @@
+**ismatch(string,pattern)** function
+
 .. code-block:: python
 
-	from ismatch import *
+	>>> from ismatch import *
 
 	>>> ismatch("string","str*")
 	True
