@@ -42,7 +42,7 @@ True
 
 [![GitHub issues](https://img.shields.io/github/issues/russianidiot/ismatch.py.svg)](https://github.com/russianidiot/ismatch.py/issues) - Github Issues
 
-[![Join the chat at https://gitter.im/russianidiot/ismatch.py](https://badges.gitter.im/russianidiot/ismatch.py.svg)](https://gitter.im/russianidiot/ismatch.py) - **Chat** with me (english/russian) 
+[![Join the chat at https://gitter.im/russianidiot/ismatch.py](https://badges.gitter.im/russianidiot/ismatch.py.svg)](https://gitter.im/russianidiot/ismatch.py) - Chat (english/russian) 
 
 * * *
 
@@ -61,6 +61,6 @@ my Python packages <a href="http://russianidiot.github.io/python/">russianidiot.
 </p>
 
 <p align="center">
-	README.md generated with <a href="https://github.com/russianidiot-dotfiles/.README">.README</a> (python+mako, sh)
+	<a href="https://raw.githubusercontent.com/russianidiot/ismatch.py/master/README.md">README.md</a> generated with <a href="https://github.com/russianidiot/readme-mako.py">readmemako.py</a> (python+<a href="http://www.makotemplates.org/">mako</a> templates) and <a href="https://github.com/russianidiot-dotfiles/.README">.README</a> dotfiles 
 <img src="http://russianidiot.github.io/images/book/16.png">
 </p>

@@ -8,8 +8,8 @@ IFS=
 
 ! [ -e setup.py ] && echo "ERROR: setup.py NOT EXISTS" && exit 0
 
-name="${PWD##*/}"
-name="${name/.py/}"
+IFS=.;set -- ${PWD##*/};IFS=
+name="$1"
 
 url="https://pypi.python.org/pypi/$name/json"
 

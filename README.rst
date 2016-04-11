@@ -12,15 +12,7 @@
 Install
 ~~~~~~~
 
-github.com_: :code:`pip install git+git://github.com/russianidiot/ismatch.py.git`
-
-pypi.python.org_: :code:`pip install ismatch`
-
-download_: :code:`[ -e requirements.txt ] && pip install -r requirements.txt; python setup.py install`
-
-.. _github.com: http://github.com/russianidiot/ismatch.py
-.. _pypi.python.org: https://pypi.python.org/pypi/ismatch.py
-.. _download: https://github.com/russianidiot/ismatch.py/archive/master.zip
+:code:`pip install ismatch`
 
 	
 
@@ -60,6 +52,19 @@ Feedback
 .. |gitter| image:: https://badges.gitter.im/russianidiot/ismatch.py.svg
 	:target: https://gitter.im/russianidiot/ismatch.py
 
-`russianidiot.github.io/python/`_  - my Python packages
+----
+
+`russianidiot.github.io/python/`_  - Python packages
+
+`russianidiot.github.io/cli/`_  - command line scripts
 
 .. _russianidiot.github.io/python/: http://russianidiot.github.io/python/
+
+.. _russianidiot.github.io/cli/: http://russianidiot.github.io/cli/
+
+`README.rst`_  - generated with `readmemako.py`_ (python+ `mako`_ templates) and `.README`_ dotfiles
+
+.. _README.rst: https://github.com/russianidiot/ismatch.py/blob/master/README.rst
+.. _readmemako.py: http://github.com/russianidiot/readmemako.py/
+.. _mako: http://www.makotemplates.org/
+.. _.README: https://github.com/russianidiot-dotfiles/.README

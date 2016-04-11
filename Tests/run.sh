@@ -13,7 +13,7 @@
 find="$(find Tests -type f -name "*.sh" ! -regex '.*/\..*' | grep -v "${BASH_SOURCE[0]}")"
 [[ -n $find ]] && {
 	count="$(echo "$find" | wc -l | tr -d ' ')"
-	echo "${path/$HOME/~}/*.sh ($count)"
+	echo "Tests/*.sh ($count)"
 
 	[[ -n "$find" ]] && while IFS= read path; do
 		( set -x; . "$path" ) || exit
