@@ -4,7 +4,7 @@ from inspect import *
 import re
 from isstring import *
 from tolist import *
-from public import *
+from public import public
 
 def isregex(object):
     return isinstance(object,re._pattern_type)
