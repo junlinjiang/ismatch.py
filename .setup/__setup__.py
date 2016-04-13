@@ -53,9 +53,9 @@ SETUPTOOLS_ARGS = [
 ]
 
 
-def pyfiles(dir):
+def pyfiles(path):
     """find python files of a directory"""
-    listdir = os.listdir(dir)
+    listdir = os.listdir(path)
     listdir = filter(lambda l: splitext(
         l)[1] == ".py" and l.find("__") < 0, listdir)
     return listdir
