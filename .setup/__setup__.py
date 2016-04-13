@@ -87,6 +87,15 @@ def update(**kwargs):
             sys.modules["__main__"].__all__.append(key)
         setattr(sys.modules["__main__"], key, value)
 
+def isstring(value):
+    try:
+        int(value)
+        return False
+    except ValueError:
+        return True
+    except Exception:
+        return False
+
 
 def main():
     sys.modules["__main__"].__all__ = []
@@ -117,15 +126,6 @@ def main():
         update(**setup_kwargs)
         if len(sys.argv) == 1 and len(setup_kwargs) > 0:  # debug
             print("%s: %s" % ("~/.setup_kwargs.py", setup_kwargs))
-
-    def isstring(object):
-        try:
-            int(object)
-            return False
-        except ValueError:
-            return True
-        except Exception:
-            return False
 
     kwargs = module_kwargs(sys.modules["__main__"])
     if "name" in kwargs:
