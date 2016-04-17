@@ -3,16 +3,13 @@
 .. image:: https://img.shields.io/pypi/pyversions/ismatch.svg
    :target: https://pypi.python.org/pypi/ismatch
 
-.. image:: https://img.shields.io/pypi/pyversions/ismatch.svg
-   :target: https://pypi.python.org/pypi/ismatch
-
- |codacy| |landscape| |codeclimate| |scrutinizer|
+|codacy| |landscape| |codeclimate| |scrutinizer|
 
 .. |scrutinizer| image:: https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/quality-score.png?b=master
    :target: https://scrutinizer-ci.com/g/russianidiot/ismatch.py/master
    :alt: scrutinizer-ci.com
 
-.. |codacy| image:: https://img.shields.io/codacy/None.svg
+.. |codacy| image:: https://img.shields.io/codacy/e58b4e41a8944871be85cd35f1626102.svg
    :target: https://www.codacy.com/app/russianidiot-github/ismatch-py/dashboard
    :alt: codacy.com
 
@@ -32,23 +29,25 @@ Install
 Usage
 `````
 
-**ismatch(string,pattern)** function
+.. code:: python
+	
+	>>> from ismatch import ismatch
+	
+	>>> ismatch(string,pattern)
 
-.. code-block:: python
+Example
+```````
 
-	>>> from ismatch import *
-
+.. code:: python
+	
 	>>> ismatch("string","str*")
 	True
-
+	
 	>>> ismatch("string",["str*","another pattern"]) # 2 patterns
 	True
-
+	
 	>>> ismatch("string","string") # static pattern
-
-`Examples/`_
-
-.. _Examples/: https://github.com/russianidiot/ismatch.py/tree/master/Examples
+	True
 
 Sources:
 

@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-from fnmatch import *
-from inspect import *
+import fnmatch
+import inspect
 import re
-from isstring import *
-from tolist import *
+from isstring import isstring
+from tolist import tolist
 from public import public
 
 def isregex(object):
@@ -25,15 +25,8 @@ def ismatch(string,pattern):
                 return True
             if isregex(p):
                 return bool(p.match(s))
-            if isfunction(p):
+            if inspect.isfunction(p):
                 return p(s)
-            if fnmatch(s,str(p)):
+            if fnmatch.fnmatch(s,str(p)):
                 return True
     return False
-
-if __name__=="__main__":
-    print(ismatch("string","string")) # True
-    print(ismatch("string","str*")) # True
-    print(ismatch("string",["str*","another pattern"])) # True
-    print(ismatch("string",None)) # False
-    print(ismatch("string","long string")) # False

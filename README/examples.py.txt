@@ -1,6 +1,3 @@
-```python
-from ismatch import *
-
 >>> ismatch("string","str*")
 True
 
@@ -8,4 +5,4 @@ True
 True
 
 >>> ismatch("string","string") # static pattern
-```
+True

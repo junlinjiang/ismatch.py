@@ -1,0 +1,3 @@
+>>> from ismatch import ismatch
+
+>>> ismatch(string,pattern)
