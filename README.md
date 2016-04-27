@@ -4,6 +4,7 @@
 [![Code Health](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/ismatch.py)
 
 [![Build Status](https://travis-ci.org/russianidiot/ismatch.py.svg?branch=master)](https://travis-ci.org/russianidiot/ismatch.py)[![drone.io](https://drone.io/github.com/russianidiot/ismatch.py/status.png)](https://drone.io/github.com/russianidiot/ismatch.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/ismatch.py.svg)](https://app.wercker.com/#applications/None/)
+[![codecov.io](https://codecov.io/github/russianidiot/ismatch.py/coverage.svg?branch=master)](https://codecov.io/github/russianidiot/ismatch.py?branch=master)
 
 [![PyPI](https://img.shields.io/pypi/v/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
 [![PyPI](https://img.shields.io/pypi/dm/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
