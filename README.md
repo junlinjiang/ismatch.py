@@ -3,7 +3,7 @@
 [![codacy.com](https://img.shields.io/codacy/e58b4e41a8944871be85cd35f1626102.svg)](https://www.codacy.com/app/russianidiot-github/ismatch-py/dashboard)[![landscape.io](https://landscape.io/github/russianidiot/ismatch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/ismatch.py/master)[![Code Climate](https://img.shields.io/codeclimate/github/russianidiot/ismatch.py.svg)](https://codeclimate.com/github/russianidiot/ismatch.py)
 [![Code Health](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/ismatch.py)
 
-[![Build Status](https://travis-ci.org/russianidiot/ismatch.py.svg?branch=master)](https://travis-ci.org/russianidiot/ismatch.py)[![drone.io](https://drone.io/github.com/russianidiot/ismatch.py/status.png)](https://drone.io/github.com/russianidiot/ismatch.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/ismatch.py.svg)](https://app.wercker.com/#applications/None/)
+[![Build Status](https://travis-ci.org/russianidiot/ismatch.py.svg?branch=master)](https://travis-ci.org/russianidiot/ismatch.py)[![drone.io](https://drone.io/github.com/russianidiot/ismatch.py/status.png)](https://drone.io/github.com/russianidiot/ismatch.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/ismatch.py.svg)](https://app.wercker.com/#applications/570bf0fb3f1a8913740466d7/)
 [![codecov.io](https://codecov.io/github/russianidiot/ismatch.py/coverage.svg?branch=master)](https://codecov.io/github/russianidiot/ismatch.py?branch=master)
 
 [![PyPI](https://img.shields.io/pypi/v/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
@@ -11,7 +11,7 @@
 [![PyPI](https://img.shields.io/pypi/dd/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
 
 <p align="center">
-	<b>ismatch(string,pattern) function - True if string match pattern(s). pattern types: string, wildcard, regex</b>
+    <b>ismatch(string,pattern) function - True if string match pattern(s). pattern types: string, wildcard, regex</b>
 </p>
 
 #### Install
@@ -39,6 +39,8 @@ True
 >>> ismatch("string","string") # static pattern
 True
 ```
+
+[Examples/](https://github.com/russianidiot/ismatch.py/tree/master/Examples)
 
 Sources:
 *	[py_modules/ismatch.py](https://github.com/russianidiot/ismatch.py/blob/master/py_modules/ismatch.py)

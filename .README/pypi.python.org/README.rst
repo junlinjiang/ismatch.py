@@ -49,6 +49,10 @@ Example
 	>>> ismatch("string","string") # static pattern
 	True
 
+`Examples/`_
+
+.. _Examples/: https://github.com/russianidiot/ismatch.py/tree/master/Examples
+
 Sources:
 
 *	`py_modules/ismatch.py`_
