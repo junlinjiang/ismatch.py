@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 from ismatch import *
 
-bool = ismatch("string","string") # True
+bool = ismatch("string", "string")  # True
 print(bool)
-
