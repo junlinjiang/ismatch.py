@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from ismatch import *
+from ismatch import ismatch
 
-bool = ismatch("string", ["str*", "another pattern"])  # True
-print(bool)
+r = ismatch("string", ["str*", "another pattern"])  # True
+print(r)
