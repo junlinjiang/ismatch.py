@@ -1,10 +1,17 @@
 ![python](https://img.shields.io/badge/language-python-blue.svg)[![PyPI](https://img.shields.io/pypi/pyversions/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
 
-[![codacy.com](https://img.shields.io/codacy/e58b4e41a8944871be85cd35f1626102.svg)](https://www.codacy.com/app/russianidiot-github/ismatch-py/dashboard)[![landscape.io](https://landscape.io/github/russianidiot/ismatch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/ismatch.py/master)[![Code Climate](https://img.shields.io/codeclimate/github/russianidiot/ismatch.py.svg)](https://codeclimate.com/github/russianidiot/ismatch.py)
-[![Code Health](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/ismatch.py)
+[![codacy.com](https://api.codacy.com/project/badge/Grade/e58b4e41a8944871be85cd35f1626102)](https://www.codacy.com/app/russianidiot-github/ismatch-py/dashboard)
+[![landscape.io](https://landscape.io/github/russianidiot/ismatch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/ismatch.py)
+[![codeclimate.com](https://codeclimate.com/github/russianidiot/ismatch.py/badges/gpa.svg)](https://codeclimate.com/github/russianidiot/ismatch.py)
+[![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/)
 
-[![Build Status](https://travis-ci.org/russianidiot/ismatch.py.svg?branch=master)](https://travis-ci.org/russianidiot/ismatch.py)[![drone.io](https://drone.io/github.com/russianidiot/ismatch.py/status.png)](https://drone.io/github.com/russianidiot/ismatch.py)[![Wercker](https://app.wercker.com/status/49064affcb33a7cfaf6cc64a8b06c27a/s/master)](https://app.wercker.com/#applications/570bf0fb3f1a8913740466d7/)
 [![codecov.io](https://codecov.io/github/russianidiot/ismatch.py/coverage.svg?branch=master)](https://codecov.io/github/russianidiot/ismatch.py?branch=master)
+[![drone.io](https://drone.io/github.com/russianidiot/ismatch.py/status.png)](https://drone.io/github.com/russianidiot/ismatch.py)
+[![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/build.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/)
+[![semaphoreci.com](https://semaphoreci.com/api/v1/russianidiot/ismatch-py/branches/master/shields_badge.svg)](https://semaphoreci.com/russianidiot/ismatch-py)
+[![shippable.com](https://api.shippable.com/projects/57068cbb2a8192902e1bbbc0/badge?branch=master)](https://app.shippable.com/projects/57068cbb2a8192902e1bbbc0)
+[![travis-ci.org](https://travis-ci.org/russianidiot/ismatch.py.svg)](https://travis-ci.org/russianidiot/ismatch.py)
+[![wercker.com](https://app.wercker.com/status/49064affcb33a7cfaf6cc64a8b06c27a/s/master)](https://app.wercker.com/#applications/570bf0fb3f1a8913740466d7)
 
 [![PyPI](https://img.shields.io/pypi/v/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
 [![PyPI](https://img.shields.io/pypi/dm/ismatch.svg)](https://pypi.python.org/pypi/ismatch)

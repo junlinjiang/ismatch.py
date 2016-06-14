@@ -6,19 +6,19 @@
 |codacy| |landscape| |codeclimate| |scrutinizer|
 
 .. |scrutinizer| image:: https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/quality-score.png?b=master
-   :target: https://scrutinizer-ci.com/g/russianidiot/ismatch.py/master
+   :target: https://scrutinizer-ci.com/g/russianidiot/ismatch.py/
    :alt: scrutinizer-ci.com
 
-.. |codacy| image:: https://img.shields.io/codacy/e58b4e41a8944871be85cd35f1626102.svg
+.. |codacy| image:: https://api.codacy.com/project/badge/Grade/e58b4e41a8944871be85cd35f1626102
    :target: https://www.codacy.com/app/russianidiot-github/ismatch-py/dashboard
    :alt: codacy.com
 
-.. |codeclimate| image:: https://img.shields.io/codeclimate/github/russianidiot/ismatch.py.svg
+.. |codeclimate| image:: https://codeclimate.com/github/russianidiot/ismatch.py/badges/gpa.svg
    :target: https://codeclimate.com/github/russianidiot/ismatch.py
    :alt: codeclimate.com
 
 .. |landscape| image:: https://landscape.io/github/russianidiot/ismatch.py/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/russianidiot/ismatch.py/master
+   :target: https://landscape.io/github/russianidiot/ismatch.py/master/landscape.svg?style=flat
    :alt: landscape.io
 
 Install

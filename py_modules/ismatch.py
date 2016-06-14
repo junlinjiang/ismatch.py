@@ -7,8 +7,9 @@ from tolist import tolist
 from public import public
 
 
-def isregex(object):
-    return isinstance(object, re._pattern_type)
+def isregex(obj):
+    _pattern_type = getattr(re, "_pattern_type")
+    return isinstance(obj, _pattern_type)
 
 
 @public
