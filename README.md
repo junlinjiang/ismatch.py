@@ -1,4 +1,6 @@
-![python](https://img.shields.io/badge/language-python-blue.svg)[![PyPI](https://img.shields.io/pypi/pyversions/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
+![python](https://img.shields.io/badge/language-python-blue.svg)
+
+[![PyPI](https://img.shields.io/pypi/pyversions/ismatch.svg)](https://pypi.python.org/pypi/ismatch)[![PyPI](https://img.shields.io/pypi/v/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
 
 [![codacy.com](https://api.codacy.com/project/badge/Grade/e58b4e41a8944871be85cd35f1626102)](https://www.codacy.com/app/russianidiot-github/ismatch-py/dashboard)
 [![landscape.io](https://landscape.io/github/russianidiot/ismatch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/ismatch.py)
@@ -12,10 +14,6 @@
 [![shippable.com](https://api.shippable.com/projects/57068cbb2a8192902e1bbbc0/badge?branch=master)](https://app.shippable.com/projects/57068cbb2a8192902e1bbbc0)
 [![travis-ci.org](https://travis-ci.org/russianidiot/ismatch.py.svg)](https://travis-ci.org/russianidiot/ismatch.py)
 [![wercker.com](https://app.wercker.com/status/49064affcb33a7cfaf6cc64a8b06c27a/s/master)](https://app.wercker.com/#applications/570bf0fb3f1a8913740466d7)
-
-[![PyPI](https://img.shields.io/pypi/v/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
-[![PyPI](https://img.shields.io/pypi/dm/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
-[![PyPI](https://img.shields.io/pypi/dd/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
 
 <p align="center">
     <b>ismatch(string,pattern) function - True if string match pattern(s). pattern types: string, wildcard, regex</b>
