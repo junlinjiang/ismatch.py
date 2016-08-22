@@ -1,3 +1,4 @@
 isstring
 public
+setupfiles
 tolist
