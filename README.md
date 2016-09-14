@@ -2,6 +2,21 @@
 README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and .README dotfiles (github.com/russianidiot-dotfiles/.README)
 -->
 
+![python](https://img.shields.io/badge/language-python-blue.svg)
+[![PyPI](https://img.shields.io/pypi/pyversions/ismatch.svg)](https://pypi.python.org/pypi/ismatch)[![PyPI](https://img.shields.io/pypi/v/ismatch.svg)](https://pypi.python.org/pypi/ismatch)
+
+[![codacy.com](https://api.codacy.com/project/badge/Grade/e58b4e41a8944871be85cd35f1626102)](https://www.codacy.com/app/russianidiot-github/ismatch-py/dashboard)
+[![landscape.io](https://landscape.io/github/russianidiot/ismatch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/ismatch.py)
+[![codeclimate.com](https://codeclimate.com/github/russianidiot/ismatch.py/badges/gpa.svg)](https://codeclimate.com/github/russianidiot/ismatch.py)
+[![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/)
+
+[![drone.io](https://drone.io/github.com/russianidiot/ismatch.py/status.png)](https://drone.io/github.com/russianidiot/ismatch.py)
+[![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/badges/build.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/ismatch.py/)
+[![semaphoreci.com](https://semaphoreci.com/api/v1/russianidiot/ismatch-py/branches/master/shields_badge.svg)](https://semaphoreci.com/russianidiot/ismatch-py)
+[![shippable.com](https://api.shippable.com/projects/57068cbb2a8192902e1bbbc0/badge?branch=master)](https://app.shippable.com/projects/57068cbb2a8192902e1bbbc0/status/)
+[![travis-ci.org](https://api.travis-ci.org/russianidiot/ismatch.py.svg)](https://travis-ci.org/russianidiot/ismatch.py)
+[![wercker.com](https://app.wercker.com/status/49064affcb33a7cfaf6cc64a8b06c27a/s/master)](https://app.wercker.com/russianidiot/ismatch.py/)
+
 <p align="center">
     <b>ismatch(string,pattern) function - True if string match pattern(s). pattern types: string, wildcard, regex</b>
 </p>
